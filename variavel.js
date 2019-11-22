@@ -16,7 +16,6 @@ console.log(nome,profissao,escolaridade,estado,cidade);
  //Carol jornalista superior completo minas gerais juiz de fora
 
 
-
 /*  
     2. Com as variaveis criadas, substitua os valores já definidos por valores diferentes atribuidos a elas.
 
@@ -120,4 +119,4 @@ A = 80; /// dá erro pois o valor é fixo e não pode ter seu valor alterado.
 let valor = 100;
 const juros = 0.03;
 let valorFinal = valor + valor * juros;
-console.log(valorFinal);// 103
+console.log(valorFinal);/// 103
