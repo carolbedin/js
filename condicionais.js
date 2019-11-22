@@ -13,7 +13,7 @@
     SE idade é menor igual a  18 -  ( Passe a mensagem ao usuario que "criança/adolescente")
     SE for maior que 18  E menor igual a 60 - ( Passe a mensagem ao ususrio que "Adulto")
     SE NÃO  ( Passe a mensagem ao ususrio que "Idoso")
-*///
+*/
 
 
 /* 
@@ -38,4 +38,3 @@
     Resultado = Acima do peso normal 
 
 */
-
