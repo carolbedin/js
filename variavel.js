@@ -108,7 +108,7 @@ console.log(A,B,C); // 10,10,10
     Essa operação funcionou ? justifique
 */
 const A = 100;
-A = 80; /// dá erro pois o valor é fixo e não pode ter seu valor alterado.
+A = 80; // dá erro pois o valor é fixo e não pode ter seu valor alterado.
 
 
 

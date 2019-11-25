@@ -76,3 +76,4 @@ switch(diaDaSemana){
     break;
     default: console.log("não é dia da semana")
 }
+//
