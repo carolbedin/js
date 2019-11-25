@@ -97,7 +97,7 @@ let B = 20;
 let C = A;
 B = C;
 A = B;
-console.log(A,B,C); // 10,10,10
+console.log(A,B,C); /// 10,10,10
 
 
 /*  
