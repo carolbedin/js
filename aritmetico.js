@@ -12,4 +12,3 @@ C) O que você precisaria ajustar no algoritmo caso o banco só tivesse notas de
 Obs:
 ParseInt é uma conversão para inteiros que joga fora a parte decimal  e existem muitas outros.
 
-*/

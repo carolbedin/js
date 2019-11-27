@@ -60,7 +60,7 @@ let A = 10;
 let B = 20;
 console.log(B); / 5
 B = 5;
-console.log(A,B) //10,5
+console.log(A,B) ///10,5
 
 
 /*  
